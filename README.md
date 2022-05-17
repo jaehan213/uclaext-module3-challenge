@@ -5,7 +5,7 @@ The project was completed along the guidelines for UCLA Extension's Module 3 Cha
 
 
 
-![Module 2 Preview](/module3_preview.png)
+![Module 3 Preview](/module3_preview.PNG)
 
 
 Deployed Github Link: 
